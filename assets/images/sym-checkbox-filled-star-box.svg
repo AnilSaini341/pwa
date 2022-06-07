@@ -1,0 +1,12 @@
+<svg id="sym-checkbox-filled-star-box" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_12" data-name="Group 12">
+    <g id="Group_11" data-name="Group 11">
+      <g id="Group_10" data-name="Group 10">
+        <g id="Group_9" data-name="Group 9">
+          <rect id="Rectangle_1" data-name="Rectangle 1" width="24" height="24" rx="12"/>
+          <path id="star" d="M13.338,5.334a.709.709,0,0,0-.612-.489L8.867,4.5,7.34.923a.711.711,0,0,0-1.307,0L4.507,4.5l-3.86.35a.712.712,0,0,0-.4,1.244L3.161,8.648l-.86,3.79a.71.71,0,0,0,1.057.768l3.329-1.99,3.328,1.99a.711.711,0,0,0,1.058-.768l-.86-3.79L13.13,6.09a.711.711,0,0,0,.208-.756Zm0,0" transform="translate(5.313 5.509)" fill="#ffc107"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

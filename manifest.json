@@ -1,0 +1,16 @@
+{
+  "name": "Zamit Supers",
+  "short_name": "Supers",
+  "start_url": "homepage.html",
+  "scope": "./",
+  "theme_color": "#fc7b4a",
+  "background_color": "#fc7b4a",
+  "display": "standalone",
+    "icons": [
+        {
+            "src": "./applogo.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        }
+    ]
+}

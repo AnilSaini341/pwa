@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="445" height="251" viewBox="0 0 445 251">
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g transform="translate(-820 -575) translate(820 626) matrix(-1 0 0 1 437 -48)">
+                    <g>
+                        <g stroke="#FFE7DE" stroke-width="16" transform="translate(0 10)">
+                            <circle cx="115" cy="115" r="52.192" opacity=".7"/>
+                            <circle cx="115" cy="115" r="83.154" opacity=".8"/>
+                            <circle cx="115" cy="115" r="115" opacity=".9"/>
+                        </g>
+                        <g stroke="#FFF7F4" stroke-width="5" transform="translate(360)">
+                            <circle cx="36.644" cy="36.644" r="16.721" opacity=".7"/>
+                            <circle cx="36.644" cy="36.644" r="26.683" opacity=".8"/>
+                            <circle cx="37" cy="37" r="37" opacity=".9"/>
+                        </g>
+                    </g>
+                    <circle cx="334.721" cy="181.721" r="16.721" stroke="#FFF7F4" stroke-width="5" opacity=".7"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,1396 @@
+@media (max-width: 1900px) {
+}
+@media (min-width: 1024px) and (max-width: 2500px) {
+    .navbar-toggle {
+        display: none;
+    }
+}
+@media (min-width: 1601px) and (max-width: 1853px) {
+    .tag_school_filtter .filtering_tag {
+        padding: 0 10px;
+    }
+    a.schools_box_display_btn {
+        padding: 4px 5px 5px;
+        font-size: 10px;
+    }
+}
+@media (min-width: 1366px) and (max-width: 1600px) {
+    a.schools_box_display_btn {
+        padding: 4px 6px 5px;
+        font-size: 10px;
+    }
+    .tag_school_filtter .filtering_tag {
+        padding: 0 8px;
+    }
+    .ss_selectoption.rated_box {
+        margin-top: 0px;
+    }
+    .container {
+        max-width: 95%;
+    }
+    .textbox_padd_right label,
+    .textbox_padd_left label {
+        font-weight: 600;
+        font-size: 13px;
+        line-height: 46px;
+        padding: 5px 0px 5px 15px;
+    }
+    .ss_selectoption.textbox_padd_right label {
+        padding: 0;
+    }
+    .ss_selectoption.textbox_padd_left label {
+        padding: 0;
+    }
+    .banner_right_img {
+        position: absolute;
+        bottom: -65px;
+        right: -40px;
+        width: 33%;
+    }
+}
+@media (min-width: 1200px) and (max-width: 1365px) {
+    .schools_box {
+        padding: 15px 10px 15px 10px;
+        margin-left: 30px;
+    }
+    .ZQ_tags {
+        left: 45px;
+    }
+    a.schools_box_display_btn {
+        padding: 5px 6px;
+        font-size: 10px;
+    }
+    .ss_selectoption.rated_box {
+        margin-top: 0;
+    }
+    .banner_right_img {
+        position: absolute;
+        bottom: -65px;
+        right: -40px;
+        width: 33%;
+    }
+    .ss_selectoption.textbox_padd_right label {
+        padding: 0;
+    }
+    .ss_selectoption.textbox_padd_left label {
+        padding: 0;
+    }
+    .container {
+        max-width: 94%;
+    }
+    .trending-podcasts-box h3 {
+        font-size: 16px;
+    }
+    .trending-box h3 {
+        font-size: 16px;
+    }
+    .trending-con p {
+        line-height: 22px;
+    }
+    .tag_school_filtter .filtering_tag {
+        font-size: 10px;
+        padding: 0 10px;
+        margin-right: 5px;
+    }
+    .textbox_padd_right label,
+    .textbox_padd_left label {
+        font-weight: 600;
+        font-size: 12px;
+        line-height: 46px;
+        padding: 5px 0px 5px 15px;
+    }
+    .ss_selectoption label:after {
+        top: 6px;
+    }
+    .zamit_pro_ss {
+        padding: 20px 10px;
+    }
+    .zamit_pro_ss p {
+        color: #ffffff;
+        font-size: 13px;
+    }
+    .apply_share {
+        margin-top: 30px;
+    }
+    .bread-bg {
+        background-color: #fafafa;
+        margin-top: 20px;
+    }
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+}
+@media (min-width: 1025px) and (max-width: 1279px) {
+    .ss_selectoption.rated_box {
+        margin-top: 5px;
+    }
+    .tag_school_filtter .filtering_tag {
+        margin-bottom: 5px;
+    }
+    .schools_box {
+        padding: 15px 10px 15px 10px;
+        margin-left: 30px;
+    }
+    .ZQ_tags {
+        left: 45px;
+    }
+    a.schools_box_display_btn {
+        padding: 5px 10px;
+        font-size: 10px;
+    }
+    .container {
+        max-width: 94%;
+    }
+    .search-field-box h3 {
+        font-size: 12px;
+    }
+    .input-group {
+        margin-top: 25px;
+        padding: 0px 0;
+    }
+    a.nav-link {
+        padding-left: 6px !important;
+        padding-right: 6px !important;
+    }
+}
+@media (min-width: 992px) and (max-width: 1024px) {
+    .ZQ_tags {
+        left: 45px;
+    }
+    .schools_box {
+        padding: 15px 10px 15px 10px;
+        margin-left: 30px;
+    }
+    .banner_right_img {
+        position: absolute;
+        bottom: -65px;
+        right: -40px;
+        width: 42%;
+    }
+    a.schools_box_display_btn {
+        padding: 5px 6px;
+        font-size: 10px;
+    }
+    ul.download-link li {
+        display: inline-block;
+        margin-right: 20px;
+    }
+    .compare_now {
+        width: 100%;
+        padding: 20px 30px 20px 30px;
+        height: auto;
+    }
+    .apply_box {
+        width: 100%;
+    }
+    /*  18.03.2021  */
+    .ss_slider_des h2 {
+        font-size: 30px;
+    }
+    .ss_slider_main {
+        padding: 20px 0 0 1%;
+    }
+    .ss_video_des h2,
+    .ss_dowload_zamit {
+        padding-top: 30px;
+    }
+    .feed_post_images {
+        height: 80px;
+        width: 80px;
+    }
+    .icon_ss a {
+        width: 10px;
+    }
+    .feed_post {
+        padding: 5px 5px 5px;
+    }
+    .ss_feed_p {
+        font-size: 13px;
+        height: auto;
+    }
+    .ss_video_button {
+        height: 50px;
+        width: 50px;
+        background: #ffffff;
+        line-height: 50px;
+        top: 36%;
+        display: inline-block;
+        left: 45%;
+        border-radius: 80px;
+    }
+    .ss_video_button i {
+        font-size: 20px;
+    }
+    .ss_dowload_zamit p {
+        font-size: 14px;
+    }
+    .bgss_offrings {
+        left: 0;
+    }
+    .ss_dowload_zamit .button_ss a {
+        border: 1px solid rgba(119, 119, 119, 0.3);
+    }
+    .ss_dowload_zamit .button_ss a img {
+        height: 33px;
+    }
+    .zamit_services_title h2,
+    .serach_des h1,
+    .ss_zamit_admissions h2,
+    .ss_video_des h2,
+    .ss_dowload_zamit h2 {
+        font-size: 24px;
+    }
+    .Schools_select_box .nice-select {
+        min-width: 140px;
+        font-size: 14px;
+    }
+    .ss_video_section {
+        padding-top: 10px;
+    }
+    .ss_zamit_admissions6 .images > img,
+    .ss_offerings .images {
+        width: 100%;
+        height: auto;
+    }
+    .serach_box {
+        padding: 5px;
+    }
+    .check_images {
+        width: 21px;
+    }
+    .zamit_offerings {
+        position: relative;
+        padding: 20px 20px;
+    }
+    .p-2.bd-highlight {
+        font-size: 14px;
+    }
+    .ss_padding_0 {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .feed_post_des h3 {
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .zamit_offerings {
+        position: relative;
+        overflow: hidden;
+    }
+    .ss_slider_section,
+    .ss_serch_section,
+    .ss_jamit_feed,
+    .footer,
+    .ss_explore_more {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .ss_zamit_admissions_last .images {
+        height: 82px;
+        position: relative;
+    }
+    .ss_zamit_admissions {
+        padding: 10px;
+    }
+    a.nav-link {
+        font-size: 12px;
+    }
+    .ss_slider_des {
+        padding: 20px 0 60px 20px;
+    }
+    .ss_zamit_admissions .images > img {
+        height: auto;
+    }
+    .ss_zamit_admissions6 .images {
+        height: auto;
+    }
+    .ss_slider_des .ss_btn .btn_contact_us,
+    .ss_slider_des .ss_btn .btn_know,
+    .serach_des p,
+    .ss_zamit_admissions p,
+    .ss_video_des .ss_btn .btn_know,
+    .ss_video_des .ss_btn .btn_contact_us,
+    .ss_video_des p {
+        font-size: 14px;
+        height: auto;
+    }
+    .ss_slider_des p {
+        font-size: 16px;
+    }
+    .ss_slider_images > img {
+        width: 100%;
+        margin: 0 0 -26px 0px;
+    }
+    .zamit_pro_button .benefits_btn {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .zamit_pro_button .upgrade_btn {
+        width: 100%;
+    }
+    .ss_selectoption label:after {
+        top: 13px;
+    }
+    .ss_progress_bar {
+        padding: 10px 10px;
+    }
+    .progressbar_title {
+        font-size: 12px;
+    }
+    .progress_bar_2 {
+        padding: 20px 5px;
+    }
+    .textbox_padd_right label,
+    .textbox_padd_left label {
+        line-height: 20px;
+    }
+    .list-group-item p {
+        font-size: 12px;
+        font-weight: 600;
+    }
+    .list-group-item h4 {
+        font-size: 13px;
+        font-weight: 700;
+    }
+    .zamit_pro_ss p {
+        font-size: 14px;
+    }
+    .input-group {
+        margin-top: 25px;
+        padding: 0px 0;
+    }
+    .search-col {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+    a.nav-link {
+        font-size: 12px;
+        padding: 10px;
+    }
+    a.search-btn {
+        font-size: 12px;
+    }
+    .trending-box h3 {
+        font-size: 15px;
+    }
+    .trending-box-img {
+        height: 80px;
+        width: auto;
+    }
+    .trending-box {
+        padding: 36px 10px 36px;
+    }
+    .trending-podcasts-box {
+        padding: 22px 10px 22px;
+    }
+    .trending-podcasts-box h3 {
+        font-size: 15px;
+    }
+    .search-field-box {
+        width: 100%;
+        margin: auto;
+    }
+    .search-field-box h3 {
+        font-size: 12px;
+    }
+    .input-group .col-lg-2 {
+        padding-left: 0;
+        padding-right: 15px;
+        margin-top: 0;
+    }
+    .container {
+        max-width: 94%;
+    }
+    .trending-box h3 br {
+        display: none;
+    }
+    .trending-box {
+        padding: 36px 23px 36px;
+    }
+    .trending-school .trending-box {
+        padding: 55px 23px 54px;
+    }
+    .ss_selectoption_col {
+        padding-left: 0px;
+        padding-right: 15px;
+        margin-top: 0px;
+    }
+    .tag_school_filtter .filtering_tag {
+        padding: 0 9px;
+        font-size: 10px;
+        margin-bottom: 5px;
+    }
+    .ss_shools_selction:after {
+        right: 14px;
+        top: 15px;
+    }
+    .social-link {
+        margin-top: 15px;
+    }
+    .ss_selectoption.ss_shools_selction select {
+        margin-top: 10px;
+    }
+    .custom-counter li {
+        font-size: 13px !important;
+    }
+    .app_home p {
+        font-size: 14px;
+    }
+    .tion_profile {
+        padding: 0 0px;
+    }
+    .school_app_list .tion_des h2 {
+        font-size: 14px;
+    }
+    .tion_profile .tion_des p {
+        font-size: 12px;
+    }
+    .map_box {
+        width: 100%;
+    }
+    .school_ss {
+        margin-bottom: 30px;
+        margin-top: 10px !important;
+        margin-bottom: 10px !important;
+    }
+    /*26-3-2021*/
+    .compare_products h2 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .bread-bg {
+        background-color: #fafafa;
+        margin-top: 30px;
+    }
+    .ss_rated_qualities {
+        padding: 16px 15px;
+        margin-bottom: 20px;
+    }
+    .compare_con_1 {
+        width: 40%;
+    }
+    .apply_share {
+        margin-top: 25px;
+    }
+    .p-2.bd-highlight {
+        font-size: 14px;
+        padding-top: 0 !important;
+    }
+    .ss_rated_qualities h2 {
+        font-size: 16px;
+        font-weight: 700;
+    }
+    .select_bookmarks .compare_now {
+        width: auto;
+        height: 100%;
+        padding: 48px 30px;
+    }
+    .select_school {
+        width: 31%;
+    }
+    .bookmark_box_con h4 {
+        font-size: 13px;
+    }
+    .add-bookmark {
+        padding: 38px 20px;
+        margin-right: 10px;
+        height: 100%;
+        width: 181px;
+    }
+    .bookmark_box_img {
+        margin-right: 15px;
+        line-height: 50px;
+    }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+    .video_progress_bar {
+        width: 65.1%;
+    }
+    .brand_logo_box img {
+        width: 80%;
+        margin: auto;
+    }
+    .offe_banner img {
+        width: 100%;
+        height: 150px;
+        object-fit: cover;
+    }
+    .offe_banner {
+        height: 150px;
+    }
+    .img_banner {
+        margin-top: 30px;
+    }
+    .brand_title h2 {
+        font-size: 30px;
+    }
+    .filterss .filtering_tag {
+        margin-right: 5px;
+        margin-bottom: 10px;
+    }
+    .search-field-box {
+        width: 100%;
+        margin: auto;
+    }
+    .map_box {
+        width: 100%;
+    }
+    .search-col {
+        padding-right: 3px;
+        padding-left: 3px;
+    }
+    .search-field-box h3 {
+        font-size: 10px;
+    }
+    .input-group .col-lg-2 {
+        padding-left: 15px;
+        padding-right: 15px;
+        margin-top: 15px;
+    }
+    .container {
+        max-width: 94%;
+    }
+    .trending-box h3 br {
+        display: none;
+    }
+    .trending-box {
+        padding: 22px 23px 23px;
+    }
+    .trending-podcasts-box-con,
+    .trending-box-con,
+    .school_ss {
+        margin: 2px;
+        margin-bottom: 20px;
+    }
+    .ss_selectoption_col {
+        padding-left: 15px;
+        padding-right: 15px;
+        margin-top: 0px;
+    }
+    .ss_selectoption.rated_box {
+        margin-top: 10px;
+    }
+    .tag_school_filtter .filtering_tag {
+        padding: 0 10px;
+    }
+    .ss_shools_selction:after {
+        right: 14px;
+    }
+    .social-link {
+        margin-top: 15px;
+    }
+    .collapse:not(.show) {
+        display: none !important;
+    }
+    .navbar-nav {
+        float: right;
+        width: 100%;
+    }
+    .search-box {
+        display: none;
+    }
+    .nav-link {
+        display: block;
+        padding: 11px 10px;
+        border-bottom: 1px solid #f6f6f6;
+    }
+    .ss_button_skip,
+    .ss_button_continue {
+        width: 100%;
+    }
+    .ss_button_skip a,
+    .ss_button_continue a {
+        width: 100%;
+    }
+    .ss_main_class_pro {
+        margin-top: 25px;
+    }
+    .search_banner_con p {
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .app_home p {
+        font-size: 14px;
+    }
+    /*  18.03.2021  */
+    .ss_slider_des h2 {
+        font-size: 30px;
+    }
+    .ss_slider_main {
+        padding: 20px 0 0 1%;
+    }
+    .ss_video_des h2,
+    .ss_dowload_zamit {
+        padding-top: 30px;
+    }
+    .feed_post_images {
+        height: 80px;
+        width: 80px;
+    }
+    .icon_ss a {
+        width: 10px;
+    }
+    .feed_post {
+        padding: 5px 5px 5px;
+    }
+    .ss_feed_p {
+        font-size: 13px;
+        height: auto;
+    }
+    .ss_video_button {
+        height: 50px;
+        width: 50px;
+        background: #ffffff;
+        line-height: 50px;
+        top: 36%;
+        display: inline-block;
+        left: 45%;
+        border-radius: 80px;
+    }
+    .ss_video_button i {
+        font-size: 20px;
+    }
+    .ss_dowload_zamit p {
+        font-size: 14px;
+    }
+    .bgss_offrings {
+        left: 0;
+    }
+    .ss_dowload_zamit .button_ss a {
+        border: 1px solid rgba(119, 119, 119, 0.3);
+    }
+    .ss_dowload_zamit .button_ss a img {
+        height: 33px;
+    }
+    .zamit_services_title h2,
+    .serach_des h1,
+    .ss_zamit_admissions h2,
+    .ss_video_des h2,
+    .ss_dowload_zamit h2 {
+        font-size: 24px;
+    }
+    .ss_zamit_admissions6 .images {
+        height: auto;
+    }
+    .Schools_select_box .nice-select {
+        min-width: 140px;
+        font-size: 14px;
+    }
+    .ss_video_section {
+        padding-top: 10px;
+    }
+    .ss_zamit_admissions6 .images > img,
+    .ss_offerings .images {
+        width: 100%;
+        height: auto;
+    }
+    .serach_box {
+        padding: 5px;
+    }
+    .check_images {
+        width: 21px;
+    }
+    .zamit_offerings {
+        position: relative;
+        padding: 20px 20px;
+    }
+    .p-2.bd-highlight {
+        font-size: 14px;
+    }
+    .ss_padding_0 {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .feed_post_des h3 {
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .zamit_offerings {
+        position: relative;
+        overflow: hidden;
+    }
+    .ss_slider_section,
+    .ss_serch_section,
+    .ss_jamit_feed,
+    .footer,
+    .ss_explore_more {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .ss_zamit_admissions_last .images {
+        height: 82px;
+        position: relative;
+    }
+    .ss_zamit_admissions {
+        padding: 10px;
+    }
+    a.nav-link {
+        font-size: 12px;
+    }
+    .ss_slider_des {
+        padding: 20px 0 60px 20px;
+    }
+    .ss_zamit_admissions .images > img {
+        height: auto;
+    }
+    .ss_slider_des .ss_btn .btn_contact_us,
+    .ss_slider_des .ss_btn .btn_know,
+    .serach_des p,
+    .ss_zamit_admissions p,
+    .ss_video_des .ss_btn .btn_know,
+    .ss_video_des .ss_btn .btn_contact_us,
+    .ss_video_des p {
+        font-size: 14px;
+        height: auto;
+    }
+    .ss_slider_des p {
+        font-size: 16px;
+    }
+    .ss_slider_images > img {
+        width: 100%;
+        margin: 0 0 -26px 0px;
+    }
+    .compare_now {
+        width: 100%;
+        padding: 20px 30px 20px 30px;
+        height: auto;
+    }
+    .apply_box {
+        width: 100%;
+    }
+    .app_status_col {
+        margin-top: 0px;
+        margin-bottom: 10px;
+    }
+    .zamit_pro_ss {
+        width: 100%;
+    }
+    /*26-3-20219*/
+    header {
+        box-shadow: 0px 5px 10px rgb(152 152 152 / 10%);
+    }
+    .compare_products {
+        position: relative;
+        margin-bottom: 30px;
+    }
+    .compare_detail {
+        padding-top: 20px;
+    }
+    .ss_rated_qualities {
+        padding: 15px 15px;
+    }
+    .select_school {
+        width: 44%;
+    }
+    .add-bookmark {
+        width: 173px;
+        padding: 30px 15px;
+        border-radius: 5px;
+        height: 110px;
+        margin-right: 10px;
+    }
+    .bookmark_box_con h4 {
+        font-size: 14px;
+    }
+    .school_img {
+        margin-right: 10px;
+        width: 90px;
+        height: 90px;
+    }
+    .school_con p {
+        font-size: 11px;
+    }
+    .bookmark_box_img {
+        margin-right: 10px;
+        line-height: 50px;
+    }
+    .compare_now {
+        margin-top: 20px;
+    }
+    .compare_now_box_con {
+        width: 100%;
+    }
+}
+@media screen and (min-width: 320px) and (max-width: 767px) {
+    .compare_products h2 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .apply_btn_box {
+        padding: 12px 15px;
+    }
+    .compare_location_box h4 {
+        line-height: 22px;
+    }
+    .compare_con_1 {
+        width: 50%;
+    }
+    .actions_tag_box a {
+        padding: 5px 10px;
+        text-align: center;
+    }
+    .awards_box_con {
+        margin-bottom: 20px;
+    }
+    .awards_img_box_con {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .review_submit_box {
+        display: inline-block !important;
+    }
+    .review_submit {
+        width: 100%;
+        text-align: left;
+    }
+    .control-group {
+        width: 100%;
+    }
+    .similar_school {
+        margin-bottom: 20px;
+    }
+    .ss_rated_qualities {
+        padding: 15px 15px;
+    }
+    header {
+        box-shadow: 0px 5px 10px rgb(152 152 152 / 10%);
+    }
+    .review_submit_box {
+        width: 100%;
+    }
+    .student_ambassador_img img {
+        width: 40px;
+        height: 32px;
+    }
+    .student_ambassador_con h4 {
+        font-size: 13px;
+    }
+    .student_ambassador_con h5 {
+        font-size: 13px;
+    }
+    .apply_share {
+        margin-top: 30px;
+        margin-bottom: 20px;
+    }
+    .video_progress_bar {
+        display: inline-flex;
+        width: 44.8%;
+        position: relative;
+        top: -5px;
+    }
+    .offe_banner img {
+        width: 100%;
+        height: 150px;
+        object-fit: cover;
+    }
+    .offe_banner {
+        height: 150px;
+    }
+    .brand_logo_box img {
+        width: 80%;
+        margin: auto;
+    }
+    .img_banner {
+        margin-top: 30px;
+    }
+    .brand_title h2 {
+        font-size: 20px;
+    }
+    .new_school_form .search_section {
+        margin-bottom: 20px;
+        margin-top: 0px;
+    }
+    .select_school {
+        width: 100%;
+    }
+    .compare_now {
+        width: 100%;
+        padding: 20px 30px 20px 30px;
+        height: auto;
+    }
+    .apply_box {
+        width: 100%;
+    }
+    .new_school_form .ss_hover_box_display {
+        width: 90%;
+        z-index: 1024;
+        left: 21px;
+        padding-bottom: 20px;
+    }
+    .add-bookmark {
+        width: 100%;
+    }
+    .select_bookmarks a {
+        display: inline-block;
+        width: 100%;
+        margin: 10px 0;
+    }
+    /*  18.03.2021  */
+    .ss_slider_des h2 {
+        font-size: 30px;
+    }
+    .map_box {
+        width: 100%;
+    }
+    .ss_slider_main {
+        padding: 20px 0 0 1%;
+    }
+    .ss_video_des h2,
+    .ss_dowload_zamit {
+        padding-top: 30px;
+    }
+    .ss_zamit_admissions6 .images {
+        height: auto;
+    }
+    .feed_post_images {
+        height: 80px;
+        width: 80px;
+    }
+    .icon_ss a {
+        width: 10px;
+    }
+    .feed_post {
+        padding: 5px 5px 5px;
+    }
+    .ss_feed_p {
+        font-size: 13px;
+        height: auto;
+    }
+    .ss_video_button {
+        height: 50px;
+        width: 50px;
+        background: #ffffff;
+        line-height: 50px;
+        top: 36%;
+        display: inline-block;
+        left: 45%;
+        border-radius: 80px;
+    }
+    .ss_video_button i {
+        font-size: 20px;
+    }
+    .ss_dowload_zamit p {
+        font-size: 14px;
+    }
+    .bgss_offrings {
+        left: 0;
+    }
+    .ss_dowload_zamit .button_ss a {
+        border: 1px solid rgba(119, 119, 119, 0.3);
+    }
+    .ss_dowload_zamit .button_ss a img {
+        height: 33px;
+    }
+    .zamit_services_title h2,
+    .serach_des h1,
+    .ss_zamit_admissions h2,
+    .ss_video_des h2,
+    .ss_dowload_zamit h2 {
+        font-size: 24px;
+    }
+    .Schools_select_box .nice-select {
+        min-width: 140px;
+        font-size: 14px;
+    }
+    .ss_video_section {
+        padding-top: 10px;
+    }
+    .ss_zamit_admissions6 .images > img,
+    .ss_offerings .images {
+        width: 100%;
+        height: auto;
+    }
+    .serach_box {
+        padding: 5px;
+    }
+    .check_images {
+        width: 21px;
+    }
+    .zamit_offerings {
+        position: relative;
+        padding: 20px 20px;
+    }
+    .p-2.bd-highlight {
+        font-size: 14px;
+    }
+    .ss_padding_0 {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .feed_post_des h3 {
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .zamit_offerings {
+        position: relative;
+        overflow: hidden;
+    }
+    .ss_slider_section,
+    .ss_serch_section,
+    .ss_jamit_feed,
+    .footer,
+    .ss_explore_more {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .ss_zamit_admissions_last .images {
+        height: 82px;
+        position: relative;
+    }
+    .ss_zamit_admissions {
+        padding: 10px;
+    }
+    a.nav-link {
+        font-size: 12px;
+    }
+    .ss_slider_des {
+        padding: 20px 0 60px 20px;
+    }
+    .ss_zamit_admissions .images > img {
+        height: auto;
+    }
+    .ss_slider_des .ss_btn .btn_contact_us,
+    .ss_slider_des .ss_btn .btn_know,
+    .serach_des p,
+    .ss_zamit_admissions p,
+    .ss_video_des .ss_btn .btn_know,
+    .ss_video_des .ss_btn .btn_contact_us,
+    .ss_video_des p {
+        font-size: 14px;
+        height: auto;
+    }
+    .ss_slider_des p {
+        font-size: 16px;
+    }
+    .ss_slider_images > img {
+        width: 100%;
+        margin: 0 0 -26px 0px;
+    }
+    .container {
+        max-width: 100%;
+    }
+    .navbar-expand-lg .navbar-collapse {
+        display: block !important;
+    }
+    .navbar {
+        padding: 0px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .search-field-box h3 {
+        font-size: 9px;
+    }
+    .search-field-box {
+        width: 100%;
+        padding: 10px 3px;
+        margin-bottom: 2px;
+    }
+    .input-group .col-lg-2 {
+        padding-left: 15px;
+        padding-right: 15px;
+        margin-top: 15px;
+    }
+    #recommendations-slider .owl-prev {
+        left: 10px;
+    }
+    #recommendations-slider .owl-next {
+        right: 10px;
+    }
+    .ss_selectoption {
+        margin-top: 0px;
+    }
+    .ss_selectoption_col {
+        padding-left: 15px;
+    }
+    .ss_shools_selction:after {
+        right: 15px;
+    }
+    .tag_school_filtter .filtering_tag {
+        padding: 0 8px;
+        margin-bottom: 5px;
+    }
+    #trending-school .owl-nav,
+    #trending-slider .owl-nav,
+    #trending-podcasts-slider .owl-nav,
+    #trending-news-slider .owl-nav {
+        display: none;
+    }
+    #trending-school .owl-dots,
+    #trending-slider .owl-dots,
+    #trending-podcasts-slider .owl-dots,
+    #trending-news-slider .owl-dots {
+        display: block;
+    }
+    .trending-articles,
+    .trending-podcasts {
+        padding-top: 20px;
+    }
+    .trending-box {
+        padding: 22px 23px 23px;
+    }
+    .trending-box h3 br {
+        display: none;
+    }
+    .offset-1.col-lg-2 {
+        margin-left: 0px;
+    }
+    .search-col {
+        width: 49%;
+        display: inline-block;
+        margin: 0;
+        padding: 0 !important;
+    }
+    .input-group {
+        margin-top: 25px;
+        padding: 0px 7px;
+    }
+    .collapse:not(.show) {
+        display: none !important;
+    }
+    .navbar-nav {
+        float: right;
+        width: 100%;
+    }
+    .search-box {
+        display: none;
+    }
+    .nav-link {
+        display: block;
+        padding: 11px 10px;
+        border-bottom: 1px solid #f6f6f6;
+    }
+    .ss_button_skip,
+    .ss_button_continue {
+        width: 100%;
+    }
+    .ss_button_skip a,
+    .ss_button_continue a {
+        width: 100%;
+    }
+    .ss_main_class_pro {
+        margin-top: 25px;
+    }
+    .search_banner_con p {
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .ss_upload_required li {
+        list-style: none;
+        padding: 0px 10px 30px 0;
+        display: inline-block;
+    }
+    .ss_upload_required li {
+        width: 49%;
+        padding: 0px 15px 15px 0;
+    }
+    h4.panel-title {
+        font-size: 14px;
+    }
+    .filterss .filtering_tag {
+        margin-bottom: 20px;
+    }
+    .ss_selectoption.ss_shools_selction select {
+        margin-top: 10px;
+    }
+    .ss_shools_selction:after {
+        right: 15px;
+        top: 17px;
+    }
+    .ss_progess_bar_button {
+        width: 70px;
+    }
+    .custom-counter li {
+        font-size: 13px !important;
+    }
+    .school_application h4 {
+        font-size: 14px;
+    }
+    .school_application p {
+        font-size: 13px;
+        font-weight: 600;
+    }
+    .not_upload_btn .save_btn {
+        padding: 14px 20px;
+        font-size: 14px;
+    }
+    .not_upload_btn .upload_btn {
+        padding: 14px 20px;
+        font-size: 14px;
+    }
+    .dis_con {
+        margin-top: 20px;
+    }
+    .add_new_profile {
+        width: 100%;
+    }
+    .new_school_form a.nav-link {
+        padding: 5px 14px;
+        margin-bottom: 10px;
+    }
+    .timeline ul li {
+        font-size: 13px;
+    }
+    .timeline {
+        margin-top: 15px;
+    }
+    .tion_profile {
+        padding: 0 0px;
+        margin-bottom: 10px;
+    }
+    .school_app_list .highlight_box {
+        padding: 15px;
+        display: block !IMPORTANT;
+    }
+    .school_app_list .bd-highlight:last-child {
+        width: auto;
+        text-align: right;
+    }
+    .school_app_list .bd-highlight:nth-child(3) {
+        float: left;
+        width: 50%;
+    }
+    .app_status {
+        margin-top: 10px;
+    }
+    .child_information_title {
+        font-size: 20px;
+    }
+    .button,
+    .submit-button {
+        width: 100%;
+    }
+    .search_flex {
+        display: block;
+    }
+    button#search-button {
+        min-width: 100px;
+    }
+    .school_ss {
+        margin-bottom: 20px;
+    }
+    .awards_modal {
+        top: 52%;
+        right: auto;
+        width: 100%;
+        left: 0;
+        padding: 20px;
+    }
+    .ss_hover_box_display {
+        width: 90%;
+    }
+    /****26-3-2021**/
+    .compare_con_box {
+        display: block !important;
+    }
+    .compare_con_1 {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    .fee_tag {
+        display: block !important;
+    }
+    .fee_tag_col {
+        width: 100%;
+    }
+    .total_fee {
+        display: block;
+    }
+    .total_fee_box {
+        width: 100%;
+    }
+    .apply_fee {
+        width: 100%;
+        text-align: center;
+        margin-top: 20px;
+        display: grid;
+    }
+    .total_title {
+        display: inline-block;
+        width: 100%;
+    }
+    .admission_point_box li {
+        width: 100%;
+    }
+    .additional_point {
+        display: block;
+    }
+    .admission_apply {
+        margin-top: 0px;
+    }
+    .school_profile_address {
+        display: block;
+    }
+    .school_profile_address .compare_con_1 {
+        width: 100%;
+    }
+    .final_selection h3 {
+        width: 100%;
+    }
+    .fee_title {
+        display: block;
+    }
+    .fee_notice p {
+        margin-top: 10px;
+        width: 100%;
+    }
+}
+@media screen and (max-width: 1300px) {
+    .main_table_zq,
+    .main_table_zq,
+    .ss_book_denmark,
+    .main_table_row {
+        min-width: 1210px;
+    }
+    .ss_main_tableA {
+        overflow-y: scroll;
+    }
+
+    .application_name{
+        padding-left: 0;
+    }
+}
+@media screen and (max-width: 931px) {
+    .ss_membership_paln,
+    .ss_zamit_admissions_services_table {
+        min-width: 900px;
+    }
+    .ss_main_tableA {
+        overflow-y: scroll;
+    }
+    .ss_zamit_memberships {
+        display: none;
+    }
+    .download-link li a img {
+        height: 35px;
+    }
+    .ss_subscription_des {
+        padding: 0 0;
+    }
+    .ss_subscription_des h2 {
+        font-size: 22px;
+        padding-top: 30px;
+        font-weight: 800;
+        color: #282828;
+    }
+}
+@media screen and (min-width: 150px) and (max-width: 295px){
+    zamit_pro_button .benefits_btn {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+}
+
+@media screen and (min-width: 988px) and (max-width: 1024px){
+    .navbar-toggle{
+        display: none;
+    }
+}
+
+@media screen and (min-width: 1025px) and (max-width: 1125px){
+    .zamit_pro_button .benefits_btn {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .zamit_pro_button .upgrade_btn {
+        width: 100%;
+    }
+}
